@@ -407,4 +407,6 @@
      <!-- Hardware keys on/off option -->
     <bool name="config_hwKeysPref">true</bool>
 
+    <!-- Whether notify fingerprint client of successful cancelled authentication -->
+    <bool name="config_notifyClientOnFingerprintCancelSuccess">true</bool>
 </resources>
